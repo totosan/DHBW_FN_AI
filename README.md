@@ -3,7 +3,7 @@ Having code for cognitive service and custom vision
 
 **This is a .Net Core 2.1 console application**
 It takes an image as input and sends it to the Azure Custom Vision Prediction API, to retrieve results as json
-
+![sample image](WIN_20181201_19_01_35_Pro.jpg)
 The result could be parsed for example with PowerShell   
 
 `
